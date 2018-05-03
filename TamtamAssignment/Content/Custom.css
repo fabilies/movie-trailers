@@ -134,6 +134,12 @@ img.placeHolder {
     max-width: 100%;
 }
 
+@media screen and (max-width: 1500px) and (min-width: 740px) {
+    img.placeHolder {
+        height: 450px;
+    }
+}
+
 img.thumbnailSize {
     max-height: 340px;
     min-height: 340px;
