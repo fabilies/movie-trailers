@@ -44,7 +44,7 @@
                 var link = "https://www.imdb.com/title/" + imdbID;
 
                 var posterTd = $("<div>").append(img);
-                var imdbIDTd = $("<div class='mxw'>").append("<a target='_BLANK' class='btn btn-warning watchTrailer' href='" + link + "'>Go to IMDB trailer</a>");
+                var imdbIDTd = $("<div class='mxw'>").append("<a target='_BLANK' class='btn btn-warning watchTrailer' href='" + link + "'>Ga naar IMDB trailer</a>");
 
                 outerDiv.append(innerDiv);
 
