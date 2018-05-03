@@ -134,7 +134,7 @@ img.placeHolder {
     max-width: 100%;
 }
 
-@media screen and (max-width: 1500px) and (min-width: 740px) {
+@media screen and (max-width: 1550px) and (min-width: 740px) {
     img.placeHolder {
         height: 450px;
     }
